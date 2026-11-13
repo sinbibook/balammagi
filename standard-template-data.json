@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-11-13T01:43:27.875955277Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-11-13T01:43:58.427526124Z",
     "templateType": "trip_l",
     "propertyId": "92cc78e7-484c-47ea-b592-a99af0bd1d38",
     "homepageId": "01a0ae9e-66ce-7d1f-a242-6b16af682a3a"
@@ -2186,7 +2186,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "내가 머무는 공간",
                 "images": [
                   {
                     "id": "01a0ae9e-a3fb-7d88-9e5a-abb8970a4a9c",
