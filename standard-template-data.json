@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-11-13T00:39:32.132826226Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-11-13T01:43:27.875955277Z",
     "templateType": "trip_l",
     "propertyId": "92cc78e7-484c-47ea-b592-a99af0bd1d38",
     "homepageId": "01a0ae9e-66ce-7d1f-a242-6b16af682a3a"
@@ -1766,7 +1766,7 @@
                     "id": "01a0ae9e-a3ee-71c2-853c-43da66c0f008",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ae9e-66ce-7d1f-a242-6b16af682a3a/main_hero/1789636013225-66ihbb8q4o.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "감성",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1774,7 +1774,7 @@
                     "id": "01a0ae9e-a3e9-74f1-a603-c17a068bd66d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ae9e-66ce-7d1f-a242-6b16af682a3a/main_hero/1789636013338-mspcil8lf4.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "힐링",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1782,7 +1782,7 @@
                     "id": "01a0ae9e-a3eb-791d-97a1-d6e7d6bfb3ce",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ae9e-66ce-7d1f-a242-6b16af682a3a/main_hero/1789636013421-9id9h5lz6k.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "자연",
                     "isSelected": true,
                     "blockId": null
                   },
